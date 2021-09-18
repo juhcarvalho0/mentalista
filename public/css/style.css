@@ -19,9 +19,15 @@ body{
     margin: 0 0 5px;
 }
 
+.textApresentacao{
+    color: #ffffff;
+    font-size: 20px;
+}
+
 .page-subtitle {
     color: #ffffff;
-    margin-top: 16px;
+    margin-top: -10px;
+    padding-bottom: 10px;
 }
 
 .page-logo {
